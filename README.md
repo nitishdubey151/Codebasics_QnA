@@ -77,8 +77,5 @@ This project is designed to work with a specific CSV file format, but it can be 
 
 - .env: Configuration file for storing your Google API key.
 
-# Demo 
-![image](https://github.com/varayush007/Codebasics-Q-A/assets/108609442/6b09cf3e-b34d-48e5-86e6-0c8d2a53402b)
-
 
 Note: This project is designed to work with a specific set of CSV files, but it can be adapted to work with other CSV files by following the instructions mentioned in the "Using Custom CSV Files" section. However, the format of the CSV file should match the expected format for the project to work correctly.
